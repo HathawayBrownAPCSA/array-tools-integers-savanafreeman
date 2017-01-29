@@ -1,0 +1,9 @@
+Good start here - and your getMax and getMin methods work great.
+
+The Index methods, on the other hand, are supposed to return the **location** of the max or min;
+  instead, they return the max or min itself.
+You will want to make these integer methods, where position holds the index of the max or min item.
+That probably means you need a new variable, so you can keep track of both 
+  the largest (smallest) item (a String) and where it is (an integer).
+
+8/10 now; 9/10 when updates are completed.
